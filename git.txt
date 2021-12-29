@@ -1,0 +1,11 @@
+step-1 : create project on github
+step-2 : goto current project on terminal
+step-3 : type all of commend
+	 - git init
+	 - git add .
+	 - git status
+	 - git commit -m "first commit"
+	 - 
+step-4 : copy project url from github
+	 - git remote add origin <past project_url>
+	 - git push -u origin master
